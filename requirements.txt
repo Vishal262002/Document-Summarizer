@@ -1,9 +1,0 @@
-flask
-gunicorn
-transformers
-torch
-wordcloud
-matplotlib
-gtts
-PyPDF2
-python-docx
