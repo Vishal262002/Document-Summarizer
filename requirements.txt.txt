@@ -1,8 +1,0 @@
-streamlit>=1.28.0
-transformers
-torch
-pdfplumber
-python-docx
-yake
-gtts
-pillow
